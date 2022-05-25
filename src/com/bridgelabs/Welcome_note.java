@@ -1,6 +1,6 @@
 package com.bridgelabs;
 
-public class tic_tac_toe {
+public class Welcome_note {
 
     public static void main(String[] args) {
 
